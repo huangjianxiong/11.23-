@@ -1,1 +1,1 @@
-https://huangjianxiong.github.io/vuejs/vue/rcomponent.html业
+https://huangjianxiong.github.io/vuejs/vue/rcomponent.html
